@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-[(images/Screenshot-challenge.jpg)]
+[(.images/Screenshot-challenge.jpg)]
 
 ### Links
 
