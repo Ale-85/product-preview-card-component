@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot-challenge.jpg)
+![](https://github.com/Ale-85/product-preview-card-component/blob/main/images/Screenshot-challenge.JPGg)
 
 ### Links
 
