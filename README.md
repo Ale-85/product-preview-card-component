@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://ale-85.github.io/stats-preview-card-component/
+- Solution URL: https://ale-85.github.io/product-preview-card-component/
 
 ## My process
 
