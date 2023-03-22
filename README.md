@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![(images/Screenshot-challenge.jpg)]
+[(images/Screenshot-challenge.jpg)]
 
 ### Links
 
@@ -38,4 +38,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@Ale-86](https://www.frontendmentor.io/profile/Ale-85)
+- Frontend Mentor - [@Ale-85](https://www.frontendmentor.io/profile/Ale-85)
